@@ -1,0 +1,8 @@
+[35m[Appium][39m Available drivers:
+[35m[Appium][39m   - uiautomator2@2.10.1 (automationName 'UiAutomator2')
+[35m[Appium][39m   - xcuitest@4.12.1 (automationName 'XCUITest')
+[35m[Appium][39m No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+[35m[Appium][39m Received SIGTERM - shutting down
+[debug] [35m[AppiumDriver@7f73][39m There are no active sessions for cleanup
+[35m[HTTP][39m Waiting until the server is closed
+[35m[HTTP][39m Received server close event
